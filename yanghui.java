@@ -15,7 +15,7 @@ public class yanghui {
 				}
 			}
 		//}
-		for(int i =0;i<yangHui.length;i++) {
+		for(int i =0;i<yangHui.length;i++) {123
 			for(int j =0; j<yangHui[i].length;j++) {
 				System.out.print(yangHui[i][j]+" ");
 			}
